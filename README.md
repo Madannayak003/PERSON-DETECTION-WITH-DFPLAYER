@@ -90,4 +90,4 @@ This project is licensed under the MIT License - free to use and modify.
 
 ## 🌐 web site
 
-[![Visit Website](https://img.shields.io/badge/View_Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madannayak003.github.io/WEB-PAGE/)
+[![Visit Website](https://img.shields.io/badge/View_Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madannayak003.github.io/-WEB-PAGE-/)
