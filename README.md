@@ -88,12 +88,7 @@ GitHub: https://github.com/Madannayak003
 License
 This project is licensed under the MIT License - free to use and modify.
 
-## 🌐 web site
-
-[![Visit Website](https://img.shields.io/badge/View_Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madannayak003.github.io/-WEB-PAGE-/)
-
-## 🌐 Live Website
+## 🌐 Website
 
 [Visit the Website](https://stellular-genie-403aa8.netlify.app)
-
-[![Netlify Status](https://img.shields.io/badge/Live%20Site-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://stellular-genie-403aa8.netlify.app)
+[![Netlify Status](https://img.shields.io/badge/Live%20Site-Netlify-brightgreen?style=for-the-badge&logo=netlify)]
