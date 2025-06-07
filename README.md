@@ -89,6 +89,4 @@ License
 This project is licensed under the MIT License - free to use and modify.
 
 ## 🌐 Website
-
-[Visit the Website](https://stellular-genie-403aa8.netlify.app)
-[![Netlify Status](https://img.shields.io/badge/Live%20Site-Netlify-brightgreen?style=for-the-badge&logo=netlify)]
+[![Netlify Status](https://img.shields.io/badge/Live%20Site-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://stellular-genie-403aa8.netlify.app)
